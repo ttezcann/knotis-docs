@@ -1,0 +1,39 @@
+{
+  "sample reference": [
+    {
+      "title": "sample reference",
+      "page_title": "What is Knotis?",
+      "page_url": "getting-started/what-is-knotis/",
+      "context": "• [[sample reference|ref]]",
+      "extended_context": null,
+      "parent_item": "Add `|ref` to a wikilink, such as `[[sample reference|ref]]`.",
+      "child_items": [],
+      "occurrence_index": 0,
+      "mode": "reference",
+      "heading_path": [
+        "Features at glance",
+        "Wikilink",
+        "Reference"
+      ],
+      "parent_chain": [
+        "Add `|ref` to a wikilink, such as `sample reference`."
+      ],
+      "section_lines": [
+        "### [[Reference]]",
+        "- The `|ref` flag marks important passages for a concept.",
+        "- Add `|ref` to a wikilink, such as `[[sample reference|ref]]`.",
+        "    - [[sample reference|ref]]",
+        "- Instead of showing every occurrence of the concept, the pane can show only the content marked with `|ref`."
+      ],
+      "section_lines_raw": [
+        "### [[Reference]]",
+        "- The `|ref` flag marks important passages for a concept.",
+        "- Add `|ref` to a wikilink, such as `[[sample reference|ref]]`.",
+        "    - [[sample reference|ref]]",
+        "- Instead of showing every occurrence of the concept, the pane can show only the content marked with `|ref`."
+      ],
+      "section_kw_offset": 3,
+      "line_idx": 95
+    }
+  ]
+}

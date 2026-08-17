@@ -1,0 +1,21 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.001 --> 00:00:02.001
+Let's say we want to add an image under this bullet
+
+00:00:02.001 --> 00:00:05.001
+Hit enter, then hit tab
+
+00:00:05.001 --> 00:00:13.001
+Copy the image and paste into VS Code.
+
+00:00:13.001 --> 00:00:23.001
+Type or paste the caption.
+
+00:00:23.001 --> 00:00:26.001
+We can adjust the width of this image.
+
+00:00:26.001 --> 00:00:32.001
+700 would make the image a bit larger.
