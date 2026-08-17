@@ -125,7 +125,6 @@ tags:
 - Here is how a code block looks:
     ![VS Code and preview shown side by side, with a fenced Python code block rendered as a formatted code block in the Knotis preview.](../assets/attachments/features/outlining-feature/code-block-sample.png)
 
-
 ## [[Video]]
 1. Save the video to the [[attachments folder]].
 2. Copy the video file:
