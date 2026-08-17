@@ -41,36 +41,6 @@ nav = [
   ]},
 ]
 
-# Runtime assets
-extra_css = [
-  "assets/knotis-palette.css",
-  "assets/knotis-content-tags.css",
-  "assets/knotis-content.css",
-  "assets/knotis-wikilinks.css",
-  "assets/knotis-pane.css",
-  "assets/knotis-graph.css",
-  "assets/knotis-search.css",
-  "assets/knotis-slides.css",
-  "assets/knotis-readaloud.css",
-  "assets/knotis-media.css",
-  "assets/knotis-theme.css",
-]
-extra_javascript = [
-  "assets/vendor/mermaid-10.9.6.min.js",
-  "assets/knotis-core.js",
-  "assets/knotis-media.js",
-  "assets/knotis-icon-map.js",
-  "assets/knotis-wikilinks.js",
-  "assets/lunr.min.js",
-  "assets/knotis-search.js",
-  "assets/knotis-slides.js",
-  "assets/knotis-graph.js",
-  "assets/knotis-readaloud.js",
-  "javascripts/mathjax.js",
-  "javascripts/glossary.js",
-  "assets/vendor/mathjax-3.2.2-tex-mml-chtml.js",
-]
-
 # Knotis settings
 ## Content
 [project.extra.knotis.content]
