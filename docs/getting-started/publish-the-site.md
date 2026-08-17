@@ -55,7 +55,6 @@ tags:
     - Under **Build and deployment**, set **Source** to **GitHub Actions**.
 - Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:
     - ```bash linenums="1" hl_lines="6"
-    knotis serve
     git init
     git add .
     git commit -m "Publish"
@@ -63,7 +62,7 @@ tags:
     git remote add origin https://github.com/username/repository.git
     git push -u origin main
     ```
-        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.
+        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.
 
 # Publish changes later
 - After the first publish, VS Code Source Control is the easiest way to send changes to GitHub.

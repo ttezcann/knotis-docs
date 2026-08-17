@@ -2256,7 +2256,7 @@
       "page_title": "Publish the site",
       "page_url": "getting-started/publish-the-site/",
       "context": "• Update the project information in [[zensical.toml]].",
-      "extended_context": "**Turning on [[Github]] Pages and first push**\n• GitHub Pages is the GitHub feature that turns the repository into a website.\n• In the GitHub repository, open **Settings > Pages**.\n  • Under **Build and deployment**, set **Source** to **GitHub Actions**.\n• Run the following in the site folder cd /path/to/my-site-folder in [[terminal]]:\n  • ```bash linenums=\"1\" hl_lines=\"6\"\nknotis serve\ngit init\ngit add .\ngit commit -m \"Publish\"\ngit branch -M main\ngit remote add origin https://github.com/username/repository.git\ngit push -u origin main\n```\n  • **Line 6:** Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
+      "extended_context": "**Turning on [[Github]] Pages and first push**\n• GitHub Pages is the GitHub feature that turns the repository into a website.\n• In the GitHub repository, open **Settings > Pages**.\n  • Under **Build and deployment**, set **Source** to **GitHub Actions**.\n• Run the following in the site folder cd /path/to/my-site-folder in [[terminal]]:\n  • ```bash linenums=\"1\" hl_lines=\"6\"\ngit init\ngit add .\ngit commit -m \"Publish\"\ngit branch -M main\ngit remote add origin https://github.com/username/repository.git\ngit push -u origin main\n```\n  • **Line 5:** Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
       "parent_item": null,
       "child_items": [
         "```text linenums=\"1\" hl_lines=\"3 4 9 10\"",
@@ -10645,7 +10645,7 @@
       "parent_item": null,
       "child_items": [
         "```bash linenums=\"1\" hl_lines=\"6\"",
-        "**Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`."
+        "**Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`."
       ],
       "occurrence_index": 0,
       "mode": "concept",
@@ -10661,7 +10661,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
@@ -10669,7 +10668,7 @@
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
         ""
       ],
       "section_lines_raw": [
@@ -10679,7 +10678,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
@@ -10687,7 +10685,7 @@
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
         ""
       ],
       "section_kw_offset": 4,
@@ -10800,7 +10798,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
@@ -10808,7 +10805,7 @@
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
         ""
       ],
       "section_lines_raw": [
@@ -10857,7 +10854,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
@@ -10865,7 +10861,7 @@
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
         ""
       ],
       "section_kw_offset": 0,
@@ -10893,7 +10889,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
@@ -10901,7 +10896,7 @@
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
         ""
       ],
       "section_lines_raw": [
@@ -10911,7 +10906,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
@@ -10919,7 +10913,7 @@
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
         ""
       ],
       "section_kw_offset": 0,

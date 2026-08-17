@@ -7203,22 +7203,21 @@
       "level": 2,
       "title": "Turning on Github Pages and first push",
       "search_title": "Turning on Pages and first push",
-      "text": "- GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ```bash linenums=\"1\" hl lines=\"6\" knotis serve git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 6: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
-      "search_text": "- GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in : - ```bash linenums=\"1\" hl lines=\"6\" knotis serve git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 6: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
+      "text": "- GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ```bash linenums=\"1\" hl lines=\"6\" git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 5: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
+      "search_text": "- GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in : - ```bash linenums=\"1\" hl lines=\"6\" git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 5: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
       "context": [
         "- GitHub Pages is the GitHub feature that turns the repository into a website.",
         "- In the GitHub repository, open **Settings > Pages**.",
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in terminal:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
         "    git branch -M main",
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
-        "`- **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.`"
+        "`- **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.`"
       ],
       "render_context": [
         "## Turning on [[Github]] Pages and first push",
@@ -7227,7 +7226,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "knotis serve",
         "git init",
         "git add .",
         "git commit -m \"Publish\"",
@@ -7235,7 +7233,7 @@
         "git remote add origin https://github.com/username/repository.git",
         "git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`."
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`."
       ],
       "section_lines_raw": [
         "## Turning on [[Github]] Pages and first push",
@@ -7244,7 +7242,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
@@ -7252,7 +7249,7 @@
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
         ""
       ],
       "breadcrumb": [
@@ -7288,7 +7285,7 @@
       "group": "getting-started/publish-the-site/",
       "page_order": 3,
       "section_order": 6,
-      "content_line": 61,
+      "content_line": 60,
       "level": 1,
       "title": "Publish changes later",
       "search_title": "Publish changes later",
@@ -9715,7 +9712,7 @@
       "group": "concept:github",
       "title": "GitHub",
       "search_title": "",
-      "text": "Required tools # Required tools 1. Terminal. - Recommended: :simple-warp: Warp{ target=\" blank\" rel=\"noopener noreferrer\" } 2. A plain-text editor. - Recommended: :octicons-vscode-24: VS Code{ target=\" blank\" rel=\"noopener noreferrer\" } with - :knotis-knotis-mark: Knotis VS Code extension{ target=\" blank\" rel=\"noopener noreferrer\" } (A live preview and Knotis-compatible Markdown editing commands). 3. A hosting service for publishing the site. - Recommended: :simple-github: GitHub Pages. - Sign up at GitHub.com{ target=\" blank\" rel=\"noopener noreferrer\" }. GitHub repository # GitHub repository - Create a GitHub account. - On GitHub, open New repository . - General - Owner: Choose the account that will own the site. - Repository name: Write the repository name, such as course-notes, or research-methods. - Configuration - Choose visibility: Select Public , unless you already know your GitHub plan ( paid ) supports the Pages visibility you need. - Add README: Leave this Off . - Add .gitignore: Leave this as No .gitignore . - Add license: Leave this as No license . - Click Create repository . Setup screen - After the repository is created, GitHub shows the setup screen. - Copy the repository URL. - This URL will be used in the first publish commands after configuring project settings and turning on Github pages. Project configuration #settings - Update the project information in zensical.toml. - ```text linenums=\"1\" hl lines=\"3 4 9 10\" # Project information [project] GitHub repository Turning on Github Pages and first push ## Turning on Github Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ```bash linenums=\"1\" hl lines=\"6\" knotis serve git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 6: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
+      "text": "Required tools # Required tools 1. Terminal. - Recommended: :simple-warp: Warp{ target=\" blank\" rel=\"noopener noreferrer\" } 2. A plain-text editor. - Recommended: :octicons-vscode-24: VS Code{ target=\" blank\" rel=\"noopener noreferrer\" } with - :knotis-knotis-mark: Knotis VS Code extension{ target=\" blank\" rel=\"noopener noreferrer\" } (A live preview and Knotis-compatible Markdown editing commands). 3. A hosting service for publishing the site. - Recommended: :simple-github: GitHub Pages. - Sign up at GitHub.com{ target=\" blank\" rel=\"noopener noreferrer\" }. GitHub repository # GitHub repository - Create a GitHub account. - On GitHub, open New repository . - General - Owner: Choose the account that will own the site. - Repository name: Write the repository name, such as course-notes, or research-methods. - Configuration - Choose visibility: Select Public , unless you already know your GitHub plan ( paid ) supports the Pages visibility you need. - Add README: Leave this Off . - Add .gitignore: Leave this as No .gitignore . - Add license: Leave this as No license . - Click Create repository . Setup screen - After the repository is created, GitHub shows the setup screen. - Copy the repository URL. - This URL will be used in the first publish commands after configuring project settings and turning on Github pages. Project configuration #settings - Update the project information in zensical.toml. - ```text linenums=\"1\" hl lines=\"3 4 9 10\" # Project information [project] GitHub repository Turning on Github Pages and first push ## Turning on Github Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ```bash linenums=\"1\" hl lines=\"6\" git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 5: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
       "search_text": "",
       "breadcrumb": [],
       "concepts": [
@@ -10862,7 +10859,7 @@
       "group": "concept:terminal",
       "title": "Terminal",
       "search_title": "",
-      "text": "Required tools # Required tools 1. Terminal. - Recommended: :simple-warp: Warp{ target=\" blank\" rel=\"noopener noreferrer\" } 2. A plain-text editor. - Recommended: :octicons-vscode-24: VS Code{ target=\" blank\" rel=\"noopener noreferrer\" } with - :knotis-knotis-mark: Knotis VS Code extension{ target=\" blank\" rel=\"noopener noreferrer\" } (A live preview and Knotis-compatible Markdown editing commands). 3. A hosting service for publishing the site. - Recommended: :simple-github: GitHub Pages. - Sign up at GitHub.com{ target=\" blank\" rel=\"noopener noreferrer\" }. Knotis installation # Knotis installation - :lucide-badge-check: Prerequisite: Install :fontawesome-brands-python: Python 3.11+ from python.org{ target=\" blank\" rel=\"noopener noreferrer\" }. - Then, run the following codes in terminal. === \":material-apple: macOS\" - ```bash python3 -m venv .venv source .venv/bin/activate pip install knotis === \":fontawesome-brands-windows: Windows\" - ```powershell python3 -m venv .venv .venv\\Scripts\\activate pip install knotis === \":material-linux: Linux\" - ```bash python3 -m venv .venv source .venv/bin/activate pip install knotis Create a site folder # Create a site folder - Choose where the course site should live on your computer and create an empty folder for it. - Create the site folder manually, or run the following in terminal: - ```bash mkdir /path/to/my-site-folder cd /path/to/my-site-folder Scaffold the site # Scaffold the site - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ```bash knotis new . - The . means “scaffold the site here,” in the current folder, /path/to/my-site-folder. What scaffolding creates - knotis new sets up and builds a working site automatically. - You do not create zensical.toml or the folder layout manually at this stage. - It initializes the site tree and then copies the packaged scaffold into it. - After the command finishes, the folder contains: - ``` my-site-folder/ ├── docs/ │ ├── index.md starter home page │ ├── section-1/ │ │ └── page-1.md … page-5.md sample pages (section-1 tag) │ ├── section-2/ │ │ └── page-6.md … page-10.md sample pages (section-2 tag) │ ├── explore/ │ │ ├── content-tags.md content tags landing page │ │ ├── glossary.md glossary landing page │ │ └── site-graph.md site graph landing page Serve and build the site locally # Serve and build the site locally - Build the site and start a local server. - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ``` sh knotis serve - The site is live at http://localhost:8000/. - knotis serve rebuilds automatically on every save. When something looks wrong 1. Save the file again. 1. The reload may have been missed. 2. Hard refresh the browser: 1. :fontawesome-brands-windows: ++ctrl+shift+r++ 2. :fontawesome-brands-apple: ++cmd+shift+r++ 3. In terminal: 1. Stop knotis serve by pressing ++ctrl+c++ 2. Run knotis build, and read any messages it prints. 3. Run knotis serve again. Serve and build the site locally When something looks wrong ## When something looks wrong 1. Save the file again. 1. The reload may have been missed. 2. Hard refresh the browser: 1. :fontawesome-brands-windows: ++ctrl+shift+r++ 2. :fontawesome-brands-apple: ++cmd+shift+r++ 3. In terminal: 1. Stop knotis serve by pressing ++ctrl+c++ 2. Run knotis build, and read any messages it prints. 3. Run knotis serve again. GitHub repository Turning on Github Pages and first push ## Turning on Github Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ```bash linenums=\"1\" hl lines=\"6\" knotis serve git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 6: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
+      "text": "Required tools # Required tools 1. Terminal. - Recommended: :simple-warp: Warp{ target=\" blank\" rel=\"noopener noreferrer\" } 2. A plain-text editor. - Recommended: :octicons-vscode-24: VS Code{ target=\" blank\" rel=\"noopener noreferrer\" } with - :knotis-knotis-mark: Knotis VS Code extension{ target=\" blank\" rel=\"noopener noreferrer\" } (A live preview and Knotis-compatible Markdown editing commands). 3. A hosting service for publishing the site. - Recommended: :simple-github: GitHub Pages. - Sign up at GitHub.com{ target=\" blank\" rel=\"noopener noreferrer\" }. Knotis installation # Knotis installation - :lucide-badge-check: Prerequisite: Install :fontawesome-brands-python: Python 3.11+ from python.org{ target=\" blank\" rel=\"noopener noreferrer\" }. - Then, run the following codes in terminal. === \":material-apple: macOS\" - ```bash python3 -m venv .venv source .venv/bin/activate pip install knotis === \":fontawesome-brands-windows: Windows\" - ```powershell python3 -m venv .venv .venv\\Scripts\\activate pip install knotis === \":material-linux: Linux\" - ```bash python3 -m venv .venv source .venv/bin/activate pip install knotis Create a site folder # Create a site folder - Choose where the course site should live on your computer and create an empty folder for it. - Create the site folder manually, or run the following in terminal: - ```bash mkdir /path/to/my-site-folder cd /path/to/my-site-folder Scaffold the site # Scaffold the site - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ```bash knotis new . - The . means “scaffold the site here,” in the current folder, /path/to/my-site-folder. What scaffolding creates - knotis new sets up and builds a working site automatically. - You do not create zensical.toml or the folder layout manually at this stage. - It initializes the site tree and then copies the packaged scaffold into it. - After the command finishes, the folder contains: - ``` my-site-folder/ ├── docs/ │ ├── index.md starter home page │ ├── section-1/ │ │ └── page-1.md … page-5.md sample pages (section-1 tag) │ ├── section-2/ │ │ └── page-6.md … page-10.md sample pages (section-2 tag) │ ├── explore/ │ │ ├── content-tags.md content tags landing page │ │ ├── glossary.md glossary landing page │ │ └── site-graph.md site graph landing page Serve and build the site locally # Serve and build the site locally - Build the site and start a local server. - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ``` sh knotis serve - The site is live at http://localhost:8000/. - knotis serve rebuilds automatically on every save. When something looks wrong 1. Save the file again. 1. The reload may have been missed. 2. Hard refresh the browser: 1. :fontawesome-brands-windows: ++ctrl+shift+r++ 2. :fontawesome-brands-apple: ++cmd+shift+r++ 3. In terminal: 1. Stop knotis serve by pressing ++ctrl+c++ 2. Run knotis build, and read any messages it prints. 3. Run knotis serve again. Serve and build the site locally When something looks wrong ## When something looks wrong 1. Save the file again. 1. The reload may have been missed. 2. Hard refresh the browser: 1. :fontawesome-brands-windows: ++ctrl+shift+r++ 2. :fontawesome-brands-apple: ++cmd+shift+r++ 3. In terminal: 1. Stop knotis serve by pressing ++ctrl+c++ 2. Run knotis build, and read any messages it prints. 3. Run knotis serve again. GitHub repository Turning on Github Pages and first push ## Turning on Github Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ```bash linenums=\"1\" hl lines=\"6\" git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 5: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
       "search_text": "",
       "breadcrumb": [],
       "concepts": [
@@ -15577,7 +15574,7 @@
       "title": "GitHub",
       "search_title": "",
       "text": "GitHub repository # GitHub repository - Create a GitHub account. - On GitHub, open New repository . - General - Owner: Choose the account that will own the site. - Repository name: Write the repository name, such as course-notes, or research-methods. - Configuration - Choose visibility: Select Public , unless you already know your GitHub plan ( paid ) supports the Pages visibility you need. - Add README: Leave this Off . - Add .gitignore: Leave this as No .gitignore . - Add license: Leave this as No license . - Click Create repository . Setup screen - After the repository is created, GitHub shows the setup screen. - Copy the repository URL. - This URL will be used in the first publish commands after configuring project settings and turning on Github pages. Project configuration #settings - Update the project information in zensical.toml. - ```text linenums=\"1\" hl lines=\"3 4 9 10\" # Project information [project]",
-      "search_text": "GitHub repository repository - Create a GitHub account. - On GitHub, open New repository . - General - Owner: Choose the account that will own the site. - Repository name: Write the repository name, such as course-notes, or research-methods. - Configuration - Choose visibility: Select Public , unless you already know your GitHub plan ( paid ) supports the Pages visibility you need. - Add README: Leave this Off . - Add .gitignore: Leave this as No .gitignore . - Add license: Leave this as No license . - Click Create repository . Setup screen - After the repository is created, GitHub shows the setup screen. - Copy the repository URL. - This URL will be used in the first publish commands after configuring project settings and turning on Github pages. Project configuration #settings - Update the project information in . - ```text linenums=\"1\" hl lines=\"3 4 9 10\" # Project information [project] site name = \"My site name here\" site url = \"https://username.github.io/repository/\" docs dir = \"docs\" site dir = \"site\" # Repository repo url = \"https://github.com/username/repository\" repo name = \"repository\" edit uri = \"edit/main/docs/\" - Line 3: Change My site name here to the name that should appear in the site header and browser tab. - Line 4: Replace username and repository with the GitHub account and repository name. - Line 9: Use the GitHub repository address, copied in the setup screen section. - Line 10: Use the repository name. Turning on Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in : - ```bash linenums=\"1\" hl lines=\"6\" knotis serve git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 6: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
+      "search_text": "GitHub repository repository - Create a GitHub account. - On GitHub, open New repository . - General - Owner: Choose the account that will own the site. - Repository name: Write the repository name, such as course-notes, or research-methods. - Configuration - Choose visibility: Select Public , unless you already know your GitHub plan ( paid ) supports the Pages visibility you need. - Add README: Leave this Off . - Add .gitignore: Leave this as No .gitignore . - Add license: Leave this as No license . - Click Create repository . Setup screen - After the repository is created, GitHub shows the setup screen. - Copy the repository URL. - This URL will be used in the first publish commands after configuring project settings and turning on Github pages. Project configuration #settings - Update the project information in . - ```text linenums=\"1\" hl lines=\"3 4 9 10\" # Project information [project] site name = \"My site name here\" site url = \"https://username.github.io/repository/\" docs dir = \"docs\" site dir = \"site\" # Repository repo url = \"https://github.com/username/repository\" repo name = \"repository\" edit uri = \"edit/main/docs/\" - Line 3: Change My site name here to the name that should appear in the site header and browser tab. - Line 4: Replace username and repository with the GitHub account and repository name. - Line 9: Use the GitHub repository address, copied in the setup screen section. - Line 10: Use the repository name. Turning on Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in : - ```bash linenums=\"1\" hl lines=\"6\" git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 5: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
       "context": [
         "# GitHub repository",
         "- Create a GitHub account.",
@@ -15645,7 +15642,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "knotis serve",
         "git init",
         "git add .",
         "git commit -m \"Publish\"",
@@ -15653,7 +15649,7 @@
         "git remote add origin https://github.com/username/repository.git",
         "git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`."
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`."
       ],
       "section_lines_raw": [
         "# [[GitHub]] repository",
@@ -15701,7 +15697,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
@@ -15709,7 +15704,7 @@
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
         ""
       ],
       "section_kw_offset": 0,
@@ -15744,8 +15739,8 @@
       "content_line": 45,
       "title": "Github",
       "search_title": "",
-      "text": "GitHub repository Turning on Github Pages and first push ## Turning on Github Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ```bash linenums=\"1\" hl lines=\"6\" knotis serve git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 6: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
-      "search_text": "GitHub repository Turning on Github Pages and first push Turning on Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in : - ```bash linenums=\"1\" hl lines=\"6\" knotis serve git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 6: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
+      "text": "GitHub repository Turning on Github Pages and first push ## Turning on Github Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ```bash linenums=\"1\" hl lines=\"6\" git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 5: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
+      "search_text": "GitHub repository Turning on Github Pages and first push Turning on Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in : - ```bash linenums=\"1\" hl lines=\"6\" git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 5: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
       "context": [
         "## Turning on Github Pages and first push",
         "- GitHub Pages is the GitHub feature that turns the repository into a website.",
@@ -15753,14 +15748,13 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in terminal:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
         "    git branch -M main",
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
-        "`- **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.`"
+        "`- **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.`"
       ],
       "render_context": [
         "## Turning on [[Github]] Pages and first push",
@@ -15769,7 +15763,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "knotis serve",
         "git init",
         "git add .",
         "git commit -m \"Publish\"",
@@ -15777,7 +15770,7 @@
         "git remote add origin https://github.com/username/repository.git",
         "git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`."
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`."
       ],
       "section_lines_raw": [
         "## Turning on [[Github]] Pages and first push",
@@ -15786,7 +15779,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
@@ -15794,7 +15786,7 @@
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
         ""
       ],
       "section_kw_offset": 0,
@@ -24933,8 +24925,8 @@
       "content_line": 49,
       "title": "terminal",
       "search_title": "",
-      "text": "GitHub repository Turning on Github Pages and first push ## Turning on Github Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ```bash linenums=\"1\" hl lines=\"6\" knotis serve git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 6: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
-      "search_text": "GitHub repository Turning on Github Pages and first push Turning on Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in : - ```bash linenums=\"1\" hl lines=\"6\" knotis serve git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 6: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
+      "text": "GitHub repository Turning on Github Pages and first push ## Turning on Github Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in terminal: - ```bash linenums=\"1\" hl lines=\"6\" git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 5: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
+      "search_text": "GitHub repository Turning on Github Pages and first push Turning on Pages and first push - GitHub Pages is the GitHub feature that turns the repository into a website. - In the GitHub repository, open Settings Pages . - Under Build and deployment , set Source to GitHub Actions . - Run the following in the site folder cd /path/to/my-site-folder in : - ```bash linenums=\"1\" hl lines=\"6\" git init git add . git commit -m \"Publish\" git branch -M main git remote add origin https://github.com/username/repository.git git push -u origin main - Line 5: Replace your repository URL with https://github.com/USERNAME/REPOSITORY.git.",
       "context": [
         "## Turning on Github Pages and first push",
         "- GitHub Pages is the GitHub feature that turns the repository into a website.",
@@ -24942,14 +24934,13 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in terminal:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
         "    git branch -M main",
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
-        "`- **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.`"
+        "`- **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.`"
       ],
       "render_context": [
         "## Turning on [[Github]] Pages and first push",
@@ -24958,7 +24949,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "knotis serve",
         "git init",
         "git add .",
         "git commit -m \"Publish\"",
@@ -24966,7 +24956,7 @@
         "git remote add origin https://github.com/username/repository.git",
         "git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`."
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`."
       ],
       "section_lines_raw": [
         "## Turning on [[Github]] Pages and first push",
@@ -24975,7 +24965,6 @@
         "    - Under **Build and deployment**, set **Source** to **GitHub Actions**.",
         "- Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:",
         "    - ```bash linenums=\"1\" hl_lines=\"6\"",
-        "    knotis serve",
         "    git init",
         "    git add .",
         "    git commit -m \"Publish\"",
@@ -24983,7 +24972,7 @@
         "    git remote add origin https://github.com/username/repository.git",
         "    git push -u origin main",
         "    ```",
-        "        - **Line 6:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
+        "        - **Line 5:** Replace your repository URL with `https://github.com/USERNAME/REPOSITORY.git`.",
         ""
       ],
       "section_kw_offset": 4,
