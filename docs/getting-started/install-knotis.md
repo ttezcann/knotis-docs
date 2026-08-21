@@ -9,7 +9,7 @@ tags:
     - **Recommended:** :simple-warp: [Warp](https://www.warp.dev/){ target="_blank" rel="noopener noreferrer" }
 2. A plain-text editor.
     - **Recommended:** :octicons-vscode-24: [VS Code](https://code.visualstudio.com/){ target="_blank" rel="noopener noreferrer" } with
-        - :knotis-mark: [Knotis VS Code extension](https://github.com/ttezcann/vscode-knotis){ target="_blank" rel="noopener noreferrer" } (A live preview and Knotis-compatible Markdown editing commands).
+        - :knotis-mark: [Knotis VS Code extension](https://github.com/ttezcann/knotis-vscode){ target="_blank" rel="noopener noreferrer" } (A live preview and Knotis-compatible Markdown editing commands).
 3. A hosting service for publishing the site.
     - **Recommended:** :simple-github: [[GitHub]] Pages.
         - Sign up at [GitHub.com](https://github.com/){ target="_blank" rel="noopener noreferrer" }. 
@@ -84,7 +84,7 @@ tags:
     ```
 - **[[docs folder|docs]]/:** contains the site’s Markdown pages.
     - The scaffold starts with section folders such as `section-1/`, `section-2/`, and `explore/`.
-- **docs/assets/[[attachments folder|attachments]]/:** stores files used by pages, such as images, datasets, PDFs, downloads, and other media.
+- **docs/[[assets|assets folder]]/:** stores files used by pages, such as images, datasets, PDFs, downloads, and other media.
     - The scaffold creates one attachment folder per sample page so page-specific files have a clear home.
 - **[[overrides folder|overrides]]/:** contains optional theme and template overrides.
     - The scaffold includes starter templates such as header controls and per-page layout options.

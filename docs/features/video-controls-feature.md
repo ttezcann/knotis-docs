@@ -14,7 +14,7 @@ tags:
 <!-- slide-break -->
 # [[Local videos]]
 ## [[MP4 files]] and [[GIF files]]
-1. Save the media file to the [[attachments folder]].
+1. Save the media file to the [[assets folder]].
 2. Copy the file:
     1. :fontawesome-brands-windows: &nbsp; ++ctrl+c++
     2. :fontawesome-brands-apple: &nbsp; ++cmd+c++ 

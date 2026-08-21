@@ -70,12 +70,11 @@ tags:
             - The `knotis_generated` value should **not** be changed.
                 - Changing or removing that argument can make the generated page stop being recognized.
 
-### [[Attachments folder]]
-- The `docs/assets/attachments` folder and its subfolders are automatically created.
-    - The folder names can be changed.
-- !!! info "Organize attachments by section and page #tip"
-    - Inside the existing attachment folder, create one folder for each section and one subfolder for each page.
-        - This keeps images, media, PDFs, and other files grouped with the page where they are used.
+### [[Assets folder]]
+- The `docs/assets/` folder is automatically created.
+    - !!! info "Organize attachments by section and page #tip"
+        - Inside the existing assets folder, create a folder for each section and a subfolder for each page.
+            - This keeps images, media, PDFs, and other files grouped with the page where they are used.
 
 ### [[Overrides folder]] #settings
 - The `docs/overrides` folder is automatically created.
