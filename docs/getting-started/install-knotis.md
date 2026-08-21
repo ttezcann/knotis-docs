@@ -9,7 +9,7 @@ tags:
     - **Recommended:** :simple-warp: [Warp](https://www.warp.dev/){ target="_blank" rel="noopener noreferrer" }
 2. A plain-text editor.
     - **Recommended:** :octicons-vscode-24: [VS Code](https://code.visualstudio.com/){ target="_blank" rel="noopener noreferrer" } with
-        - :knotis-knotis-mark: [Knotis VS Code extension](https://github.com/ttezcann/vscode-knotis){ target="_blank" rel="noopener noreferrer" } (A live preview and Knotis-compatible Markdown editing commands).
+        - :knotis-mark: [Knotis VS Code extension](https://github.com/ttezcann/vscode-knotis){ target="_blank" rel="noopener noreferrer" } (A live preview and Knotis-compatible Markdown editing commands).
 3. A hosting service for publishing the site.
     - **Recommended:** :simple-github: [[GitHub]] Pages.
         - Sign up at [GitHub.com](https://github.com/){ target="_blank" rel="noopener noreferrer" }. 
