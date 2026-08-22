@@ -5,7 +5,8 @@ knotis_content:
   heading_numbering: false
 ---
 
-![The Knotis logo.](assets/attachments/0-logo/knotis-lockup.png){align=left width="300" }
+![The Knotis logo.](assets/attachments/0-logo/knotis-lockup.png#only-light){align=left width="300" }
+![The Knotis logo.](assets/attachments/0-logo/knotis-lockup-dark.png#only-dark){align=left width="300" }
 Knotis is a teaching-focused [Zensical](https://zensical.org) wrapper. 
 
 It turns Markdown notes into a website where ideas are connected.

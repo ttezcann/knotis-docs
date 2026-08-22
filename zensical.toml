@@ -140,7 +140,6 @@ variant = "modern"
 font = false
 primary = "indigo"
 accent = "indigo"
-logo = "assets/attachments/0-logo/knotis-mark.svg"
 features = [
   "navigation.footer",
   "navigation.instant",
@@ -172,6 +171,7 @@ toggle.name = "Switch to light mode"
 
 [project.theme.icon]
 repo = "fontawesome/brands/github"
+logo = "knotis-mark"
 
 ## Markdown extensions
 [project.markdown_extensions.attr_list]

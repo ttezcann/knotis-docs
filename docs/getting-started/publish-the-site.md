@@ -54,7 +54,7 @@ tags:
 - In the GitHub repository, open **Settings > Pages**.
     - Under **Build and deployment**, set **Source** to **GitHub Actions**.
 - Run the following in the site folder `cd /path/to/my-site-folder` in [[terminal]]:
-    - ```bash linenums="1" hl_lines="6"
+    - ```bash linenums="1" hl_lines="5"
     git init
     git add .
     git commit -m "Publish"
@@ -68,11 +68,9 @@ tags:
 - After the first publish, VS Code Source Control is the easiest way to send changes to GitHub.
     - In VS Code:
         1. Open the Knotis site folder.
-        1. Edit and save your Markdown files, images, and `zensical.toml`.
-        1. Open the **Source Control** view.
-        1. Review the changed files.
-        1. Type a short commit message, such as `Update week 3 notes` or simply `Edit`.
-        1. Click **Commit**.
-        1. Click **Sync Changes**.
-    - GitHub Pages rebuilds after the push.
-        - Use the **Actions** tab if you want to watch the deployment.
+        2. Edit and save your Markdown files, images, and `zensical.toml`.
+        3. Open the **Source Control** view.
+        4. Review the changed files.
+        5. Type a short commit message, such as `Update week 3 notes` or simply `Edit`.
+        7. Click **Commit**.
+        8. Click **Sync Changes**.
