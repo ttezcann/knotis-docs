@@ -36,9 +36,6 @@ nav = [
     { "Glossary" = "explore/glossary.md" },
     { "Content tags" = "explore/content-tags.md" },
   ]},
-  { "Changelog" = [
-    { "Changelog" = "changelog/changelog.md" },
-  ]},
 ]
 
 # Knotis settings

@@ -118,9 +118,9 @@ tags:
     - ```bash
     pip install --upgrade knotis
     ```
-- Review the [Changelog](../changelog/changelog.md) before upgrading.
-      - The change log lists new features, renamed settings, removed settings, and any steps needed after an update.
-- To return to an earlier Knotis version, install that version directly..
+- Review the [GitHub Releases page](https://github.com/ttezcann/knotis/releases) before upgrading.
+      - It lists new features, renamed settings, removed settings, and any steps needed after an update.
+- To return to an earlier Knotis version, install that version directly.
     - ```bash
     pip install "knotis==0.1.0"
     ```
