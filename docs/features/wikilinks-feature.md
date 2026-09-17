@@ -65,7 +65,7 @@ tags:
 - Wikilink colors are customized in [[zensical.toml]] file.
     - ```toml linenums="1" hl_lines="2 3"
     [project.extra.knotis.wikilinks]
-    default = "#0197a7"
+    default = "#006b75"
     slate = "#fda4af"
     ```
         - **Line 2:** Wikilink color in light mode.

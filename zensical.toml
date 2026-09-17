@@ -6,9 +6,9 @@ docs_dir = "docs"
 site_dir = "site"
 
 # Repository
-repo_url = "https://github.com/ttezcann/knotis-docs"
-repo_name = "knotis-docs"
-edit_uri = "edit/main/docs/"
+repo_url = "https://github.com/ttezcann/knotis"
+repo_name = "knotis"
+edit_uri = "https://github.com/ttezcann/knotis-docs/edit/main/docs/"
 
 # Site tree
 nav = [
@@ -49,7 +49,7 @@ styled_section_groups = true
 
 ## Wikilinks
 [project.extra.knotis.wikilinks]
-default = "#0197a7"
+default = "#006b75"
 slate = "#fda4af"
 
 ## Pane
@@ -94,8 +94,8 @@ nav_chips = true
 order = ["settings", "tip"]
 
 [project.extra.knotis.content_tags.colors.default]
-settings = "#067647"
-tip = "#b45309"
+settings = "#05603a"
+tip = "#7a3500"
 
 [project.extra.knotis.content_tags.colors.slate]
 settings = "#79d7a7"
