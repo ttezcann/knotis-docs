@@ -7,7 +7,7 @@ knotis_content:
 
 ![The Knotis logo.](assets/attachments/0-logo/knotis-lockup.png#only-light){align=left width="300" }
 ![The Knotis logo.](assets/attachments/0-logo/knotis-lockup-dark.png#only-dark){align=left width="300" }
-Knotis is a teaching-focused [Zensical](https://zensical.org) wrapper. 
+Knotis is a teaching-focused [Zensical](https://zensical.org){: target="_blank" rel="noopener" } wrapper. 
 
 It turns Markdown notes into a website where ideas are connected.
 
@@ -16,7 +16,7 @@ It is built for **instructional materials**.
 [:material-help-circle-outline: What is Knotis?](../getting-started/what-is-knotis.md){ .md-button .md-button--primary }
 
 # Installation
-- :lucide-badge-check: **Prerequisite:** Install :fontawesome-brands-python: Python 3.11+ from [python.org](https://www.python.org/downloads/).
+- :lucide-badge-check: **Prerequisite:** Install :fontawesome-brands-python: Python 3.11+ from [python.org](https://www.python.org/downloads/){: target="_blank" rel="noopener" }.
 
     === ":material-apple: macOS"
         - ```bash

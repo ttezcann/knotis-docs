@@ -35,6 +35,7 @@ nav = [
     { "Site graph" = "explore/site-graph.md" },
     { "Glossary" = "explore/glossary.md" },
     { "Content tags" = "explore/content-tags.md" },
+    { "Accessibility" = "explore/accessibility.md" },
   ]},
 ]
 

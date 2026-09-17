@@ -22,250 +22,250 @@ Click any keyword to see every occurrence with full context.
 
 ## A
 
-<strong><span class="wikilink" data-keyword="admonition" role="button" tabindex="0">admonition</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="admonition" aria-haspopup="true">admonition</button></strong> — *2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="alias" role="button" tabindex="0">alias</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="alias" aria-haspopup="true">alias</button></strong> — *1 page*  
 [Wikilinks feature](features/wikilinks-feature/)
 
-<strong><span class="wikilink" data-keyword="alphabetical" role="button" tabindex="0">alphabetical</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="alphabetical" aria-haspopup="true">alphabetical</button></strong> — *1 page*  
 [Glossary feature](features/glossary-feature/)
 
-<strong><span class="wikilink" data-keyword="assets" role="button" tabindex="0">assets</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="assets" aria-haspopup="true">assets</button></strong> — *1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="assets folder" role="button" tabindex="0">assets folder</span></strong> — *3 pages*  
+<strong><button type="button" class="wikilink" data-keyword="assets folder" aria-haspopup="true">assets folder</button></strong> — *3 pages*  
 [Author the site](getting-started/author-the-site/) · [Outlining feature](features/outlining-feature/) · [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="automatic slides" role="button" tabindex="0">automatic slides</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="automatic slides" aria-haspopup="true">automatic slides</button></strong> — *1 page*  
 [Slide mode feature](features/slide-mode-feature/)
 
 ## B
 
-<strong><span class="wikilink" data-keyword="build" role="button" tabindex="0">build</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="build" aria-haspopup="true">build</button></strong> — *1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="bullets" role="button" tabindex="0">bullets</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="bullets" aria-haspopup="true">bullets</button></strong> — *2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="by importance" role="button" tabindex="0">by importance</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="by importance" aria-haspopup="true">by importance</button></strong> — *1 page*  
 [Glossary feature](features/glossary-feature/)
 
-<strong><span class="wikilink" data-keyword="by page" role="button" tabindex="0">by page</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="by page" aria-haspopup="true">by page</button></strong> — *1 page*  
 [Glossary feature](features/glossary-feature/)
 
 ## C
 
-<strong><span class="wikilink" data-keyword="closed captions" role="button" tabindex="0">closed captions</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="closed captions" aria-haspopup="true">closed captions</button></strong> — *1 page*  
 [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="code block" role="button" tabindex="0">code block</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="code block" aria-haspopup="true">code block</button></strong> — *2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="concept graph" role="button" tabindex="0">concept graph</span></strong> — *3 pages*  
+<strong><button type="button" class="wikilink" data-keyword="concept graph" aria-haspopup="true">concept graph</button></strong> — *3 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Pane feature](features/pane-feature/) · [Graphs feature](features/graphs-feature/)
 
-<strong><span class="wikilink" data-keyword="content layout" role="button" tabindex="0">content layout</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="content layout" aria-haspopup="true">content layout</button></strong> — *1 page*  
 [Author the site](getting-started/author-the-site/)
 
-<strong><span class="wikilink" data-keyword="content tags" role="button" tabindex="0">content tags</span></strong> — *5 pages*  
+<strong><button type="button" class="wikilink" data-keyword="content tags" aria-haspopup="true">content tags</button></strong> — *5 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Author the site](getting-started/author-the-site/) · [Outlining feature](features/outlining-feature/) · [Pane feature](features/pane-feature/) · [Content tags feature](features/content-tags-feature/)
 
 ## D
 
-<strong><span class="wikilink" data-keyword="docs folder" role="button" tabindex="0">docs folder</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="docs folder" aria-haspopup="true">docs folder</button></strong> — *1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
 ## E
 
-<strong><span class="wikilink" data-keyword="explore folder" role="button" tabindex="0">explore folder</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="explore folder" aria-haspopup="true">explore folder</button></strong> — *1 page*  
 [Author the site](getting-started/author-the-site/)
 
-<strong><span class="wikilink" data-keyword="externally hosted videos" role="button" tabindex="0">externally hosted videos</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="externally hosted videos" aria-haspopup="true">externally hosted videos</button></strong> — *1 page*  
 [Video controls feature](features/video-controls-feature/)
 
 ## F
 
-<strong><span class="wikilink" data-keyword="features at glance" role="button" tabindex="0">features at glance</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="features at glance" aria-haspopup="true">features at glance</button></strong> — *1 page*  
 [What is Knotis?](getting-started/what-is-knotis/)
 
 ## G
 
-<strong><span class="wikilink" data-keyword="generated folders and page files" role="button" tabindex="0">generated folders and page files</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="generated folders and page files" aria-haspopup="true">generated folders and page files</button></strong> — *1 page*  
 [Author the site](getting-started/author-the-site/)
 
-<strong><span class="wikilink" data-keyword="gif files" role="button" tabindex="0">gif files</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="gif files" aria-haspopup="true">gif files</button></strong> — *1 page*  
 [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="github" role="button" tabindex="0">github</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="github" aria-haspopup="true">github</button></strong> — *2 pages*  
 [Install Knotis](getting-started/install-knotis/) · [Publish the site](getting-started/publish-the-site/)
 
-<strong><span class="wikilink" data-keyword="glossary" role="button" tabindex="0">glossary</span></strong> — *5 pages*  
+<strong><button type="button" class="wikilink" data-keyword="glossary" aria-haspopup="true">glossary</button></strong> — *5 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Author the site](getting-started/author-the-site/) · [Wikilinks feature](features/wikilinks-feature/) · [Content tags feature](features/content-tags-feature/) · [Glossary feature](features/glossary-feature/)
 
-<strong><span class="wikilink" data-keyword="glossary views" role="button" tabindex="0">glossary views</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="glossary views" aria-haspopup="true">glossary views</button></strong> — *1 page*  
 [Glossary feature](features/glossary-feature/)
 
-<strong><span class="wikilink" data-keyword="graphs" role="button" tabindex="0">graphs</span></strong> — *5 pages*  
+<strong><button type="button" class="wikilink" data-keyword="graphs" aria-haspopup="true">graphs</button></strong> — *5 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/) · [Wikilinks feature](features/wikilinks-feature/) · [Graphs feature](features/graphs-feature/) · [Content tags feature](features/content-tags-feature/)
 
 ## I
 
-<strong><span class="wikilink" data-keyword="image" role="button" tabindex="0">image</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="image" aria-haspopup="true">image</button></strong> — *2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
 ## K
 
-<strong><span class="wikilink" data-keyword="knotis" role="button" tabindex="0">knotis</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="knotis" aria-haspopup="true">knotis</button></strong> — *2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="knotis installation" role="button" tabindex="0">knotis installation</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="knotis installation" aria-haspopup="true">knotis installation</button></strong> — *1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="knotis vs code extension" role="button" tabindex="0">knotis vs code extension</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="knotis vs code extension" aria-haspopup="true">knotis vs code extension</button></strong> — *2 pages*  
 [Author the site](getting-started/author-the-site/) · [Outlining feature](features/outlining-feature/)
 
 ## L
 
-<strong><span class="wikilink" data-keyword="local videos" role="button" tabindex="0">local videos</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="local videos" aria-haspopup="true">local videos</button></strong> — *1 page*  
 [Video controls feature](features/video-controls-feature/)
 
 ## M
 
-<strong><span class="wikilink" data-keyword="manual slides" role="button" tabindex="0">manual slides</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="manual slides" aria-haspopup="true">manual slides</button></strong> — *1 page*  
 [Slide mode feature](features/slide-mode-feature/)
 
-<strong><span class="wikilink" data-keyword="markdown" role="button" tabindex="0">markdown</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="markdown" aria-haspopup="true">markdown</button></strong> — *1 page*  
 [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="markdown table" role="button" tabindex="0">markdown table</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="markdown table" aria-haspopup="true">markdown table</button></strong> — *2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="mermaid diagram" role="button" tabindex="0">mermaid diagram</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="mermaid diagram" aria-haspopup="true">mermaid diagram</button></strong> — *2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="mp4 files" role="button" tabindex="0">mp4 files</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="mp4 files" aria-haspopup="true">mp4 files</button></strong> — *1 page*  
 [Video controls feature](features/video-controls-feature/)
 
 ## N
 
-<strong><span class="wikilink" data-keyword="numbered list" role="button" tabindex="0">numbered list</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="numbered list" aria-haspopup="true">numbered list</button></strong> — *2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
 ## O
 
-<strong><span class="wikilink" data-keyword="outlining" role="button" tabindex="0">outlining</span></strong> — *4 pages*  
+<strong><button type="button" class="wikilink" data-keyword="outlining" aria-haspopup="true">outlining</button></strong> — *4 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/) · [Pane feature](features/pane-feature/) · [Graphs feature](features/graphs-feature/)
 
-<strong><span class="wikilink" data-keyword="overrides folder" role="button" tabindex="0">overrides folder</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="overrides folder" aria-haspopup="true">overrides folder</button></strong> — *2 pages*  
 [Install Knotis](getting-started/install-knotis/) · [Author the site](getting-started/author-the-site/)
 
 ## P
 
-<strong><span class="wikilink" data-keyword="page graph" role="button" tabindex="0">page graph</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="page graph" aria-haspopup="true">page graph</button></strong> — *2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Graphs feature](features/graphs-feature/)
 
-<strong><span class="wikilink" data-keyword="page tags" role="button" tabindex="0">page tags</span></strong> — *3 pages*  
+<strong><button type="button" class="wikilink" data-keyword="page tags" aria-haspopup="true">page tags</button></strong> — *3 pages*  
 [Author the site](getting-started/author-the-site/) · [Graphs feature](features/graphs-feature/) · [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="pane" role="button" tabindex="0">pane</span></strong> — *6 pages*  
+<strong><button type="button" class="wikilink" data-keyword="pane" aria-haspopup="true">pane</button></strong> — *6 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/) · [Wikilinks feature](features/wikilinks-feature/) · [Pane feature](features/pane-feature/) · [Graphs feature](features/graphs-feature/) · [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="pane view" role="button" tabindex="0">pane view</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="pane view" aria-haspopup="true">pane view</button></strong> — *1 page*  
 [Pane feature](features/pane-feature/)
 
-<strong><span class="wikilink" data-keyword="path" role="button" tabindex="0">path</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="path" aria-haspopup="true">path</button></strong> — *2 pages*  
 [Pane feature](features/pane-feature/) · [Graphs feature](features/graphs-feature/)
 
-<strong><span class="wikilink" data-keyword="preparing slides" role="button" tabindex="0">preparing slides</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="preparing slides" aria-haspopup="true">preparing slides</button></strong> — *1 page*  
 [Slide mode feature](features/slide-mode-feature/)
 
-<strong><span class="wikilink" data-keyword="publishing" role="button" tabindex="0">publishing</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="publishing" aria-haspopup="true">publishing</button></strong> — *1 page*  
 [Publish the site](getting-started/publish-the-site/)
 
 ## R
 
-<strong><span class="wikilink" data-keyword="read aloud" role="button" tabindex="0">read aloud</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="read aloud" aria-haspopup="true">read aloud</button></strong> — *2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Read aloud feature](features/read-aloud-feature/)
 
-<strong><span class="wikilink" data-keyword="reference" role="button" tabindex="0">reference</span></strong> — *4 pages*  
+<strong><button type="button" class="wikilink" data-keyword="reference" aria-haspopup="true">reference</button></strong> — *4 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Wikilinks feature](features/wikilinks-feature/) · [Pane feature](features/pane-feature/) · [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="required tools" role="button" tabindex="0">required tools</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="required tools" aria-haspopup="true">required tools</button></strong> — *1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
 ## S
 
-<strong><span class="wikilink" data-keyword="sample reference" role="button" tabindex="0">sample reference</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="sample reference" aria-haspopup="true">sample reference</button></strong> — *1 page*  
 [What is Knotis?](getting-started/what-is-knotis/)
 
-<strong><span class="wikilink" data-keyword="scaffold" role="button" tabindex="0">scaffold</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="scaffold" aria-haspopup="true">scaffold</button></strong> — *2 pages*  
 [Install Knotis](getting-started/install-knotis/) · [Author the site](getting-started/author-the-site/)
 
-<strong><span class="wikilink" data-keyword="search" role="button" tabindex="0">search</span></strong> — *4 pages*  
+<strong><button type="button" class="wikilink" data-keyword="search" aria-haspopup="true">search</button></strong> — *4 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Wikilinks feature](features/wikilinks-feature/) · [Content tags feature](features/content-tags-feature/) · [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="search order" role="button" tabindex="0">search order</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="search order" aria-haspopup="true">search order</button></strong> — *1 page*  
 [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="search view" role="button" tabindex="0">search view</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="search view" aria-haspopup="true">search view</button></strong> — *1 page*  
 [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="serve" role="button" tabindex="0">serve</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="serve" aria-haspopup="true">serve</button></strong> — *1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="site folder" role="button" tabindex="0">site folder</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="site folder" aria-haspopup="true">site folder</button></strong> — *1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="site graph" role="button" tabindex="0">site graph</span></strong> — *3 pages*  
+<strong><button type="button" class="wikilink" data-keyword="site graph" aria-haspopup="true">site graph</button></strong> — *3 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Author the site](getting-started/author-the-site/) · [Graphs feature](features/graphs-feature/)
 
-<strong><span class="wikilink" data-keyword="skipping sections" role="button" tabindex="0">skipping sections</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="skipping sections" aria-haspopup="true">skipping sections</button></strong> — *1 page*  
 [Read aloud feature](features/read-aloud-feature/)
 
-<strong><span class="wikilink" data-keyword="slide mode" role="button" tabindex="0">slide mode</span></strong> — *3 pages*  
+<strong><button type="button" class="wikilink" data-keyword="slide mode" aria-haspopup="true">slide mode</button></strong> — *3 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Slide mode feature](features/slide-mode-feature/) · [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="slide view" role="button" tabindex="0">slide view</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="slide view" aria-haspopup="true">slide view</button></strong> — *1 page*  
 [Slide mode feature](features/slide-mode-feature/)
 
 ## T
 
-<strong><span class="wikilink" data-keyword="terminal" role="button" tabindex="0">terminal</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="terminal" aria-haspopup="true">terminal</button></strong> — *2 pages*  
 [Install Knotis](getting-started/install-knotis/) · [Publish the site](getting-started/publish-the-site/)
 
 ## U
 
-<strong><span class="wikilink" data-keyword="upgrade" role="button" tabindex="0">upgrade</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="upgrade" aria-haspopup="true">upgrade</button></strong> — *1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
 ## V
 
-<strong><span class="wikilink" data-keyword="video" role="button" tabindex="0">video</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="video" aria-haspopup="true">video</button></strong> — *2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="video controls" role="button" tabindex="0">video controls</span></strong> — *2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="video controls" aria-haspopup="true">video controls</button></strong> — *2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="vs code" role="button" tabindex="0">vs code</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="vs code" aria-haspopup="true">vs code</button></strong> — *1 page*  
 [Author the site](getting-started/author-the-site/)
 
 ## W
 
-<strong><span class="wikilink" data-keyword="wikilink" role="button" tabindex="0">wikilink</span></strong> — *7 pages*  
+<strong><button type="button" class="wikilink" data-keyword="wikilink" aria-haspopup="true">wikilink</button></strong> — *7 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Wikilinks feature](features/wikilinks-feature/) · [Pane feature](features/pane-feature/) · [Graphs feature](features/graphs-feature/) · [Content tags feature](features/content-tags-feature/) · [Glossary feature](features/glossary-feature/) · [Search feature](features/search-feature/)
 
 ## Y
 
-<strong><span class="wikilink" data-keyword="yaml" role="button" tabindex="0">yaml</span></strong> — *1 page*  
+<strong><button type="button" class="wikilink" data-keyword="yaml" aria-haspopup="true">yaml</button></strong> — *1 page*  
 [Author the site](getting-started/author-the-site/)
 
 ## Z
 
-<strong><span class="wikilink" data-keyword="zensical" role="button" tabindex="0">zensical</span></strong> — *3 pages*  
+<strong><button type="button" class="wikilink" data-keyword="zensical" aria-haspopup="true">zensical</button></strong> — *3 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Install Knotis](getting-started/install-knotis/) · [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong> — *11 pages*  
+<strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong> — *11 pages*  
 [Install Knotis](getting-started/install-knotis/) · [Author the site](getting-started/author-the-site/) · [Publish the site](getting-started/publish-the-site/) · [Wikilinks feature](features/wikilinks-feature/) · [Pane feature](features/pane-feature/) · [Graphs feature](features/graphs-feature/) · [Content tags feature](features/content-tags-feature/) · [Glossary feature](features/glossary-feature/) · [Slide mode feature](features/slide-mode-feature/) · [Search feature](features/search-feature/) · [Read aloud feature](features/read-aloud-feature/)
 
 </div>
@@ -274,208 +274,208 @@ Click any keyword to see every occurrence with full context.
 
 ## Most mentioned concepts
 
-<strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong> — *16 mentions · 11 pages*  
+<strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong> — *16 mentions · 11 pages*  
 [Install Knotis](getting-started/install-knotis/) · [Author the site](getting-started/author-the-site/) · [Publish the site](getting-started/publish-the-site/) · [Wikilinks feature](features/wikilinks-feature/) · [Pane feature](features/pane-feature/) · [Graphs feature](features/graphs-feature/) · [Content tags feature](features/content-tags-feature/) · [Glossary feature](features/glossary-feature/) · [Slide mode feature](features/slide-mode-feature/) · [Search feature](features/search-feature/) · [Read aloud feature](features/read-aloud-feature/)
 
-<strong><span class="wikilink" data-keyword="wikilink" role="button" tabindex="0">wikilink</span></strong> — *12 mentions · 7 pages*  
+<strong><button type="button" class="wikilink" data-keyword="wikilink" aria-haspopup="true">wikilink</button></strong> — *12 mentions · 7 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Wikilinks feature](features/wikilinks-feature/) · [Pane feature](features/pane-feature/) · [Graphs feature](features/graphs-feature/) · [Content tags feature](features/content-tags-feature/) · [Glossary feature](features/glossary-feature/) · [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="concept graph" role="button" tabindex="0">concept graph</span></strong> — *11 mentions · 3 pages*  
+<strong><button type="button" class="wikilink" data-keyword="concept graph" aria-haspopup="true">concept graph</button></strong> — *11 mentions · 3 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Pane feature](features/pane-feature/) · [Graphs feature](features/graphs-feature/)
 
-<strong><span class="wikilink" data-keyword="content tags" role="button" tabindex="0">content tags</span></strong> — *9 mentions · 5 pages*  
+<strong><button type="button" class="wikilink" data-keyword="content tags" aria-haspopup="true">content tags</button></strong> — *9 mentions · 5 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Author the site](getting-started/author-the-site/) · [Outlining feature](features/outlining-feature/) · [Pane feature](features/pane-feature/) · [Content tags feature](features/content-tags-feature/)
 
-<strong><span class="wikilink" data-keyword="pane" role="button" tabindex="0">pane</span></strong> — *9 mentions · 6 pages*  
+<strong><button type="button" class="wikilink" data-keyword="pane" aria-haspopup="true">pane</button></strong> — *9 mentions · 6 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/) · [Wikilinks feature](features/wikilinks-feature/) · [Pane feature](features/pane-feature/) · [Graphs feature](features/graphs-feature/) · [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="site graph" role="button" tabindex="0">site graph</span></strong> — *8 mentions · 3 pages*  
+<strong><button type="button" class="wikilink" data-keyword="site graph" aria-haspopup="true">site graph</button></strong> — *8 mentions · 3 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Author the site](getting-started/author-the-site/) · [Graphs feature](features/graphs-feature/)
 
-<strong><span class="wikilink" data-keyword="terminal" role="button" tabindex="0">terminal</span></strong> — *7 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="terminal" aria-haspopup="true">terminal</button></strong> — *7 mentions · 2 pages*  
 [Install Knotis](getting-started/install-knotis/) · [Publish the site](getting-started/publish-the-site/)
 
-<strong><span class="wikilink" data-keyword="page graph" role="button" tabindex="0">page graph</span></strong> — *6 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="page graph" aria-haspopup="true">page graph</button></strong> — *6 mentions · 2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Graphs feature](features/graphs-feature/)
 
-<strong><span class="wikilink" data-keyword="glossary" role="button" tabindex="0">glossary</span></strong> — *5 mentions · 5 pages*  
+<strong><button type="button" class="wikilink" data-keyword="glossary" aria-haspopup="true">glossary</button></strong> — *5 mentions · 5 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Author the site](getting-started/author-the-site/) · [Wikilinks feature](features/wikilinks-feature/) · [Content tags feature](features/content-tags-feature/) · [Glossary feature](features/glossary-feature/)
 
-<strong><span class="wikilink" data-keyword="graphs" role="button" tabindex="0">graphs</span></strong> — *5 mentions · 5 pages*  
+<strong><button type="button" class="wikilink" data-keyword="graphs" aria-haspopup="true">graphs</button></strong> — *5 mentions · 5 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/) · [Wikilinks feature](features/wikilinks-feature/) · [Graphs feature](features/graphs-feature/) · [Content tags feature](features/content-tags-feature/)
 
-<strong><span class="wikilink" data-keyword="path" role="button" tabindex="0">path</span></strong> — *5 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="path" aria-haspopup="true">path</button></strong> — *5 mentions · 2 pages*  
 [Pane feature](features/pane-feature/) · [Graphs feature](features/graphs-feature/)
 
-<strong><span class="wikilink" data-keyword="search" role="button" tabindex="0">search</span></strong> — *5 mentions · 4 pages*  
+<strong><button type="button" class="wikilink" data-keyword="search" aria-haspopup="true">search</button></strong> — *5 mentions · 4 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Wikilinks feature](features/wikilinks-feature/) · [Content tags feature](features/content-tags-feature/) · [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="assets folder" role="button" tabindex="0">assets folder</span></strong> — *4 mentions · 3 pages*  
+<strong><button type="button" class="wikilink" data-keyword="assets folder" aria-haspopup="true">assets folder</button></strong> — *4 mentions · 3 pages*  
 [Author the site](getting-started/author-the-site/) · [Outlining feature](features/outlining-feature/) · [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="outlining" role="button" tabindex="0">outlining</span></strong> — *4 mentions · 4 pages*  
+<strong><button type="button" class="wikilink" data-keyword="outlining" aria-haspopup="true">outlining</button></strong> — *4 mentions · 4 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/) · [Pane feature](features/pane-feature/) · [Graphs feature](features/graphs-feature/)
 
-<strong><span class="wikilink" data-keyword="page tags" role="button" tabindex="0">page tags</span></strong> — *4 mentions · 3 pages*  
+<strong><button type="button" class="wikilink" data-keyword="page tags" aria-haspopup="true">page tags</button></strong> — *4 mentions · 3 pages*  
 [Author the site](getting-started/author-the-site/) · [Graphs feature](features/graphs-feature/) · [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="read aloud" role="button" tabindex="0">read aloud</span></strong> — *4 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="read aloud" aria-haspopup="true">read aloud</button></strong> — *4 mentions · 2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Read aloud feature](features/read-aloud-feature/)
 
-<strong><span class="wikilink" data-keyword="reference" role="button" tabindex="0">reference</span></strong> — *4 mentions · 4 pages*  
+<strong><button type="button" class="wikilink" data-keyword="reference" aria-haspopup="true">reference</button></strong> — *4 mentions · 4 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Wikilinks feature](features/wikilinks-feature/) · [Pane feature](features/pane-feature/) · [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="slide mode" role="button" tabindex="0">slide mode</span></strong> — *4 mentions · 3 pages*  
+<strong><button type="button" class="wikilink" data-keyword="slide mode" aria-haspopup="true">slide mode</button></strong> — *4 mentions · 3 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Slide mode feature](features/slide-mode-feature/) · [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="bullets" role="button" tabindex="0">bullets</span></strong> — *3 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="bullets" aria-haspopup="true">bullets</button></strong> — *3 mentions · 2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="github" role="button" tabindex="0">github</span></strong> — *3 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="github" aria-haspopup="true">github</button></strong> — *3 mentions · 2 pages*  
 [Install Knotis](getting-started/install-knotis/) · [Publish the site](getting-started/publish-the-site/)
 
-<strong><span class="wikilink" data-keyword="knotis vs code extension" role="button" tabindex="0">knotis vs code extension</span></strong> — *3 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="knotis vs code extension" aria-haspopup="true">knotis vs code extension</button></strong> — *3 mentions · 2 pages*  
 [Author the site](getting-started/author-the-site/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="numbered list" role="button" tabindex="0">numbered list</span></strong> — *3 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="numbered list" aria-haspopup="true">numbered list</button></strong> — *3 mentions · 2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="overrides folder" role="button" tabindex="0">overrides folder</span></strong> — *3 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="overrides folder" aria-haspopup="true">overrides folder</button></strong> — *3 mentions · 2 pages*  
 [Install Knotis](getting-started/install-knotis/) · [Author the site](getting-started/author-the-site/)
 
-<strong><span class="wikilink" data-keyword="scaffold" role="button" tabindex="0">scaffold</span></strong> — *3 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="scaffold" aria-haspopup="true">scaffold</button></strong> — *3 mentions · 2 pages*  
 [Install Knotis](getting-started/install-knotis/) · [Author the site](getting-started/author-the-site/)
 
-<strong><span class="wikilink" data-keyword="yaml" role="button" tabindex="0">yaml</span></strong> — *3 mentions · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="yaml" aria-haspopup="true">yaml</button></strong> — *3 mentions · 1 page*  
 [Author the site](getting-started/author-the-site/)
 
-<strong><span class="wikilink" data-keyword="zensical" role="button" tabindex="0">zensical</span></strong> — *3 mentions · 3 pages*  
+<strong><button type="button" class="wikilink" data-keyword="zensical" aria-haspopup="true">zensical</button></strong> — *3 mentions · 3 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Install Knotis](getting-started/install-knotis/) · [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="admonition" role="button" tabindex="0">admonition</span></strong> — *2 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="admonition" aria-haspopup="true">admonition</button></strong> — *2 mentions · 2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="alphabetical" role="button" tabindex="0">alphabetical</span></strong> — *2 mentions · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="alphabetical" aria-haspopup="true">alphabetical</button></strong> — *2 mentions · 1 page*  
 [Glossary feature](features/glossary-feature/)
 
-<strong><span class="wikilink" data-keyword="by importance" role="button" tabindex="0">by importance</span></strong> — *2 mentions · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="by importance" aria-haspopup="true">by importance</button></strong> — *2 mentions · 1 page*  
 [Glossary feature](features/glossary-feature/)
 
-<strong><span class="wikilink" data-keyword="by page" role="button" tabindex="0">by page</span></strong> — *2 mentions · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="by page" aria-haspopup="true">by page</button></strong> — *2 mentions · 1 page*  
 [Glossary feature](features/glossary-feature/)
 
-<strong><span class="wikilink" data-keyword="code block" role="button" tabindex="0">code block</span></strong> — *2 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="code block" aria-haspopup="true">code block</button></strong> — *2 mentions · 2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="image" role="button" tabindex="0">image</span></strong> — *2 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="image" aria-haspopup="true">image</button></strong> — *2 mentions · 2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="knotis" role="button" tabindex="0">knotis</span></strong> — *2 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="knotis" aria-haspopup="true">knotis</button></strong> — *2 mentions · 2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="markdown table" role="button" tabindex="0">markdown table</span></strong> — *2 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="markdown table" aria-haspopup="true">markdown table</button></strong> — *2 mentions · 2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="mermaid diagram" role="button" tabindex="0">mermaid diagram</span></strong> — *2 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="mermaid diagram" aria-haspopup="true">mermaid diagram</button></strong> — *2 mentions · 2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="video" role="button" tabindex="0">video</span></strong> — *2 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="video" aria-haspopup="true">video</button></strong> — *2 mentions · 2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="video controls" role="button" tabindex="0">video controls</span></strong> — *2 mentions · 2 pages*  
+<strong><button type="button" class="wikilink" data-keyword="video controls" aria-haspopup="true">video controls</button></strong> — *2 mentions · 2 pages*  
 [What is Knotis?](getting-started/what-is-knotis/) · [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="alias" role="button" tabindex="0">alias</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="alias" aria-haspopup="true">alias</button></strong> — *1 mention · 1 page*  
 [Wikilinks feature](features/wikilinks-feature/)
 
-<strong><span class="wikilink" data-keyword="assets" role="button" tabindex="0">assets</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="assets" aria-haspopup="true">assets</button></strong> — *1 mention · 1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="automatic slides" role="button" tabindex="0">automatic slides</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="automatic slides" aria-haspopup="true">automatic slides</button></strong> — *1 mention · 1 page*  
 [Slide mode feature](features/slide-mode-feature/)
 
-<strong><span class="wikilink" data-keyword="build" role="button" tabindex="0">build</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="build" aria-haspopup="true">build</button></strong> — *1 mention · 1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="closed captions" role="button" tabindex="0">closed captions</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="closed captions" aria-haspopup="true">closed captions</button></strong> — *1 mention · 1 page*  
 [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="content layout" role="button" tabindex="0">content layout</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="content layout" aria-haspopup="true">content layout</button></strong> — *1 mention · 1 page*  
 [Author the site](getting-started/author-the-site/)
 
-<strong><span class="wikilink" data-keyword="docs folder" role="button" tabindex="0">docs folder</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="docs folder" aria-haspopup="true">docs folder</button></strong> — *1 mention · 1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="explore folder" role="button" tabindex="0">explore folder</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="explore folder" aria-haspopup="true">explore folder</button></strong> — *1 mention · 1 page*  
 [Author the site](getting-started/author-the-site/)
 
-<strong><span class="wikilink" data-keyword="externally hosted videos" role="button" tabindex="0">externally hosted videos</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="externally hosted videos" aria-haspopup="true">externally hosted videos</button></strong> — *1 mention · 1 page*  
 [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="features at glance" role="button" tabindex="0">features at glance</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="features at glance" aria-haspopup="true">features at glance</button></strong> — *1 mention · 1 page*  
 [What is Knotis?](getting-started/what-is-knotis/)
 
-<strong><span class="wikilink" data-keyword="generated folders and page files" role="button" tabindex="0">generated folders and page files</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="generated folders and page files" aria-haspopup="true">generated folders and page files</button></strong> — *1 mention · 1 page*  
 [Author the site](getting-started/author-the-site/)
 
-<strong><span class="wikilink" data-keyword="gif files" role="button" tabindex="0">gif files</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="gif files" aria-haspopup="true">gif files</button></strong> — *1 mention · 1 page*  
 [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="glossary views" role="button" tabindex="0">glossary views</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="glossary views" aria-haspopup="true">glossary views</button></strong> — *1 mention · 1 page*  
 [Glossary feature](features/glossary-feature/)
 
-<strong><span class="wikilink" data-keyword="knotis installation" role="button" tabindex="0">knotis installation</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="knotis installation" aria-haspopup="true">knotis installation</button></strong> — *1 mention · 1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="local videos" role="button" tabindex="0">local videos</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="local videos" aria-haspopup="true">local videos</button></strong> — *1 mention · 1 page*  
 [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="manual slides" role="button" tabindex="0">manual slides</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="manual slides" aria-haspopup="true">manual slides</button></strong> — *1 mention · 1 page*  
 [Slide mode feature](features/slide-mode-feature/)
 
-<strong><span class="wikilink" data-keyword="markdown" role="button" tabindex="0">markdown</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="markdown" aria-haspopup="true">markdown</button></strong> — *1 mention · 1 page*  
 [Outlining feature](features/outlining-feature/)
 
-<strong><span class="wikilink" data-keyword="mp4 files" role="button" tabindex="0">mp4 files</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="mp4 files" aria-haspopup="true">mp4 files</button></strong> — *1 mention · 1 page*  
 [Video controls feature](features/video-controls-feature/)
 
-<strong><span class="wikilink" data-keyword="pane view" role="button" tabindex="0">pane view</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="pane view" aria-haspopup="true">pane view</button></strong> — *1 mention · 1 page*  
 [Pane feature](features/pane-feature/)
 
-<strong><span class="wikilink" data-keyword="preparing slides" role="button" tabindex="0">preparing slides</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="preparing slides" aria-haspopup="true">preparing slides</button></strong> — *1 mention · 1 page*  
 [Slide mode feature](features/slide-mode-feature/)
 
-<strong><span class="wikilink" data-keyword="publishing" role="button" tabindex="0">publishing</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="publishing" aria-haspopup="true">publishing</button></strong> — *1 mention · 1 page*  
 [Publish the site](getting-started/publish-the-site/)
 
-<strong><span class="wikilink" data-keyword="required tools" role="button" tabindex="0">required tools</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="required tools" aria-haspopup="true">required tools</button></strong> — *1 mention · 1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="sample reference" role="button" tabindex="0">sample reference</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="sample reference" aria-haspopup="true">sample reference</button></strong> — *1 mention · 1 page*  
 [What is Knotis?](getting-started/what-is-knotis/)
 
-<strong><span class="wikilink" data-keyword="search order" role="button" tabindex="0">search order</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="search order" aria-haspopup="true">search order</button></strong> — *1 mention · 1 page*  
 [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="search view" role="button" tabindex="0">search view</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="search view" aria-haspopup="true">search view</button></strong> — *1 mention · 1 page*  
 [Search feature](features/search-feature/)
 
-<strong><span class="wikilink" data-keyword="serve" role="button" tabindex="0">serve</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="serve" aria-haspopup="true">serve</button></strong> — *1 mention · 1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="site folder" role="button" tabindex="0">site folder</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="site folder" aria-haspopup="true">site folder</button></strong> — *1 mention · 1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="skipping sections" role="button" tabindex="0">skipping sections</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="skipping sections" aria-haspopup="true">skipping sections</button></strong> — *1 mention · 1 page*  
 [Read aloud feature](features/read-aloud-feature/)
 
-<strong><span class="wikilink" data-keyword="slide view" role="button" tabindex="0">slide view</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="slide view" aria-haspopup="true">slide view</button></strong> — *1 mention · 1 page*  
 [Slide mode feature](features/slide-mode-feature/)
 
-<strong><span class="wikilink" data-keyword="upgrade" role="button" tabindex="0">upgrade</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="upgrade" aria-haspopup="true">upgrade</button></strong> — *1 mention · 1 page*  
 [Install Knotis](getting-started/install-knotis/)
 
-<strong><span class="wikilink" data-keyword="vs code" role="button" tabindex="0">vs code</span></strong> — *1 mention · 1 page*  
+<strong><button type="button" class="wikilink" data-keyword="vs code" aria-haspopup="true">vs code</button></strong> — *1 mention · 1 page*  
 [Author the site](getting-started/author-the-site/)
 
 </div>
@@ -486,84 +486,84 @@ Click any keyword to see every occurrence with full context.
 
 > 26 new
 
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="knotis" role="button" tabindex="0">knotis</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="zensical" role="button" tabindex="0">zensical</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="features at glance" role="button" tabindex="0">features at glance</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="outlining" role="button" tabindex="0">outlining</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="bullets" role="button" tabindex="0">bullets</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="numbered list" role="button" tabindex="0">numbered list</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="markdown table" role="button" tabindex="0">markdown table</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="image" role="button" tabindex="0">image</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="mermaid diagram" role="button" tabindex="0">mermaid diagram</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="admonition" role="button" tabindex="0">admonition</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="code block" role="button" tabindex="0">code block</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="video" role="button" tabindex="0">video</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="wikilink" role="button" tabindex="0">wikilink</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="pane" role="button" tabindex="0">pane</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="reference" role="button" tabindex="0">reference</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sample reference" role="button" tabindex="0">sample reference</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="graphs" role="button" tabindex="0">graphs</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="concept graph" role="button" tabindex="0">concept graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="page graph" role="button" tabindex="0">page graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="site graph" role="button" tabindex="0">site graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="content tags" role="button" tabindex="0">content tags</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="glossary" role="button" tabindex="0">glossary</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="slide mode" role="button" tabindex="0">slide mode</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="search" role="button" tabindex="0">search</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="read aloud" role="button" tabindex="0">read aloud</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="video controls" role="button" tabindex="0">video controls</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="knotis" aria-haspopup="true">knotis</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="zensical" aria-haspopup="true">zensical</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="features at glance" aria-haspopup="true">features at glance</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="outlining" aria-haspopup="true">outlining</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="bullets" aria-haspopup="true">bullets</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="numbered list" aria-haspopup="true">numbered list</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="markdown table" aria-haspopup="true">markdown table</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="image" aria-haspopup="true">image</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="mermaid diagram" aria-haspopup="true">mermaid diagram</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="admonition" aria-haspopup="true">admonition</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="code block" aria-haspopup="true">code block</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="video" aria-haspopup="true">video</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="wikilink" aria-haspopup="true">wikilink</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="pane" aria-haspopup="true">pane</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="reference" aria-haspopup="true">reference</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="sample reference" aria-haspopup="true">sample reference</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="graphs" aria-haspopup="true">graphs</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="concept graph" aria-haspopup="true">concept graph</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="page graph" aria-haspopup="true">page graph</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="site graph" aria-haspopup="true">site graph</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="content tags" aria-haspopup="true">content tags</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="glossary" aria-haspopup="true">glossary</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="slide mode" aria-haspopup="true">slide mode</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="search" aria-haspopup="true">search</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="read aloud" aria-haspopup="true">read aloud</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="video controls" aria-haspopup="true">video controls</button></strong></span></div>
 
 ## Install Knotis
 
 > 13 new<span class="glossary-module-count--recurring"> + 2 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="required tools" role="button" tabindex="0">required tools</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="terminal" role="button" tabindex="0">terminal</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="github" role="button" tabindex="0">github</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="knotis installation" role="button" tabindex="0">knotis installation</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="site folder" role="button" tabindex="0">site folder</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="scaffold" role="button" tabindex="0">scaffold</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="docs folder" role="button" tabindex="0">docs folder</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="assets" role="button" tabindex="0">assets</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="overrides folder" role="button" tabindex="0">overrides folder</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="build" role="button" tabindex="0">build</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="serve" role="button" tabindex="0">serve</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="upgrade" role="button" tabindex="0">upgrade</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="knotis" role="button" tabindex="0">knotis</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="zensical" role="button" tabindex="0">zensical</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="required tools" aria-haspopup="true">required tools</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="terminal" aria-haspopup="true">terminal</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="github" aria-haspopup="true">github</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="knotis installation" aria-haspopup="true">knotis installation</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="site folder" aria-haspopup="true">site folder</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="scaffold" aria-haspopup="true">scaffold</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="docs folder" aria-haspopup="true">docs folder</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="assets" aria-haspopup="true">assets</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="overrides folder" aria-haspopup="true">overrides folder</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="build" aria-haspopup="true">build</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="serve" aria-haspopup="true">serve</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="upgrade" aria-haspopup="true">upgrade</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="knotis" aria-haspopup="true">knotis</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="zensical" aria-haspopup="true">zensical</button></strong></span></div>
 
 ## Author the site
 
 > 8 new<span class="glossary-module-count--recurring"> + 6 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="scaffold" role="button" tabindex="0">scaffold</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="page tags" role="button" tabindex="0">page tags</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="yaml" role="button" tabindex="0">yaml</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="knotis vs code extension" role="button" tabindex="0">knotis vs code extension</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="vs code" role="button" tabindex="0">vs code</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="generated folders and page files" role="button" tabindex="0">generated folders and page files</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="explore folder" role="button" tabindex="0">explore folder</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="content tags" role="button" tabindex="0">content tags</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="glossary" role="button" tabindex="0">glossary</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="site graph" role="button" tabindex="0">site graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="assets folder" role="button" tabindex="0">assets folder</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="overrides folder" role="button" tabindex="0">overrides folder</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="content layout" role="button" tabindex="0">content layout</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="scaffold" aria-haspopup="true">scaffold</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="page tags" aria-haspopup="true">page tags</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="yaml" aria-haspopup="true">yaml</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="knotis vs code extension" aria-haspopup="true">knotis vs code extension</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="vs code" aria-haspopup="true">vs code</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="generated folders and page files" aria-haspopup="true">generated folders and page files</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="explore folder" aria-haspopup="true">explore folder</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="content tags" aria-haspopup="true">content tags</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="glossary" aria-haspopup="true">glossary</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="site graph" aria-haspopup="true">site graph</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="assets folder" aria-haspopup="true">assets folder</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="overrides folder" aria-haspopup="true">overrides folder</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="content layout" aria-haspopup="true">content layout</button></strong></span></div>
 
 ## Publish the site
 
 > 1 new<span class="glossary-module-count--recurring"> + 3 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="publishing" role="button" tabindex="0">publishing</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="github" role="button" tabindex="0">github</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="terminal" role="button" tabindex="0">terminal</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="publishing" aria-haspopup="true">publishing</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="github" aria-haspopup="true">github</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="terminal" aria-haspopup="true">terminal</button></strong></span></div>
 
 ## Outlining feature
 
 > 1 new<span class="glossary-module-count--recurring"> + 14 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="outlining" role="button" tabindex="0">outlining</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="markdown" role="button" tabindex="0">markdown</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="pane" role="button" tabindex="0">pane</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="graphs" role="button" tabindex="0">graphs</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="content tags" role="button" tabindex="0">content tags</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="knotis vs code extension" role="button" tabindex="0">knotis vs code extension</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="bullets" role="button" tabindex="0">bullets</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="numbered list" role="button" tabindex="0">numbered list</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="markdown table" role="button" tabindex="0">markdown table</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="image" role="button" tabindex="0">image</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="assets folder" role="button" tabindex="0">assets folder</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="mermaid diagram" role="button" tabindex="0">mermaid diagram</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="admonition" role="button" tabindex="0">admonition</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="code block" role="button" tabindex="0">code block</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="video" role="button" tabindex="0">video</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="outlining" aria-haspopup="true">outlining</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="markdown" aria-haspopup="true">markdown</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="pane" aria-haspopup="true">pane</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="graphs" aria-haspopup="true">graphs</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="content tags" aria-haspopup="true">content tags</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="knotis vs code extension" aria-haspopup="true">knotis vs code extension</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="bullets" aria-haspopup="true">bullets</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="numbered list" aria-haspopup="true">numbered list</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="markdown table" aria-haspopup="true">markdown table</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="image" aria-haspopup="true">image</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="assets folder" aria-haspopup="true">assets folder</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="mermaid diagram" aria-haspopup="true">mermaid diagram</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="admonition" aria-haspopup="true">admonition</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="code block" aria-haspopup="true">code block</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="video" aria-haspopup="true">video</button></strong></span></div>
 
 ## Wikilinks feature
 
 > 1 new<span class="glossary-module-count--recurring"> + 7 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="wikilink" role="button" tabindex="0">wikilink</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="glossary" role="button" tabindex="0">glossary</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="graphs" role="button" tabindex="0">graphs</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="pane" role="button" tabindex="0">pane</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="search" role="button" tabindex="0">search</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="alias" role="button" tabindex="0">alias</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="reference" role="button" tabindex="0">reference</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="wikilink" aria-haspopup="true">wikilink</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="glossary" aria-haspopup="true">glossary</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="graphs" aria-haspopup="true">graphs</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="pane" aria-haspopup="true">pane</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="search" aria-haspopup="true">search</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="alias" aria-haspopup="true">alias</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="reference" aria-haspopup="true">reference</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong></span></div>
 
 ## Pane feature
 
 > 2 new<span class="glossary-module-count--recurring"> + 7 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="pane" role="button" tabindex="0">pane</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="wikilink" role="button" tabindex="0">wikilink</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="content tags" role="button" tabindex="0">content tags</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="reference" role="button" tabindex="0">reference</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="outlining" role="button" tabindex="0">outlining</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="pane view" role="button" tabindex="0">pane view</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="concept graph" role="button" tabindex="0">concept graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="path" role="button" tabindex="0">path</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="pane" aria-haspopup="true">pane</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="wikilink" aria-haspopup="true">wikilink</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="content tags" aria-haspopup="true">content tags</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="reference" aria-haspopup="true">reference</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="outlining" aria-haspopup="true">outlining</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="pane view" aria-haspopup="true">pane view</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="concept graph" aria-haspopup="true">concept graph</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="path" aria-haspopup="true">path</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong></span></div>
 
 ## Graphs feature
 
 > 0 new<span class="glossary-module-count--recurring"> + 10 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="graphs" role="button" tabindex="0">graphs</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="site graph" role="button" tabindex="0">site graph</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="page graph" role="button" tabindex="0">page graph</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="concept graph" role="button" tabindex="0">concept graph</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="wikilink" role="button" tabindex="0">wikilink</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="outlining" role="button" tabindex="0">outlining</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="page tags" role="button" tabindex="0">page tags</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="path" role="button" tabindex="0">path</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="pane" role="button" tabindex="0">pane</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="graphs" aria-haspopup="true">graphs</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="site graph" aria-haspopup="true">site graph</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="page graph" aria-haspopup="true">page graph</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="concept graph" aria-haspopup="true">concept graph</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="wikilink" aria-haspopup="true">wikilink</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="outlining" aria-haspopup="true">outlining</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="page tags" aria-haspopup="true">page tags</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="path" aria-haspopup="true">path</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="pane" aria-haspopup="true">pane</button></strong></span></div>
 
 ## Content tags feature
 
 > 0 new<span class="glossary-module-count--recurring"> + 6 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="content tags" role="button" tabindex="0">content tags</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="wikilink" role="button" tabindex="0">wikilink</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="search" role="button" tabindex="0">search</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="glossary" role="button" tabindex="0">glossary</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="graphs" role="button" tabindex="0">graphs</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="content tags" aria-haspopup="true">content tags</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="wikilink" aria-haspopup="true">wikilink</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="search" aria-haspopup="true">search</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="glossary" aria-haspopup="true">glossary</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="graphs" aria-haspopup="true">graphs</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong></span></div>
 
 ## Glossary feature
 
 > 4 new<span class="glossary-module-count--recurring"> + 3 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="glossary" role="button" tabindex="0">glossary</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="wikilink" role="button" tabindex="0">wikilink</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="glossary views" role="button" tabindex="0">glossary views</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="by page" role="button" tabindex="0">by page</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="alphabetical" role="button" tabindex="0">alphabetical</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="by importance" role="button" tabindex="0">by importance</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="glossary" aria-haspopup="true">glossary</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="wikilink" aria-haspopup="true">wikilink</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="glossary views" aria-haspopup="true">glossary views</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="by page" aria-haspopup="true">by page</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="alphabetical" aria-haspopup="true">alphabetical</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="by importance" aria-haspopup="true">by importance</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong></span></div>
 
 ## Slide mode feature
 
 > 4 new<span class="glossary-module-count--recurring"> + 2 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="slide mode" role="button" tabindex="0">slide mode</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="slide view" role="button" tabindex="0">slide view</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="preparing slides" role="button" tabindex="0">preparing slides</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="automatic slides" role="button" tabindex="0">automatic slides</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="manual slides" role="button" tabindex="0">manual slides</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="slide mode" aria-haspopup="true">slide mode</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="slide view" aria-haspopup="true">slide view</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="preparing slides" aria-haspopup="true">preparing slides</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="automatic slides" aria-haspopup="true">automatic slides</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="manual slides" aria-haspopup="true">manual slides</button></strong></span></div>
 
 ## Search feature
 
 > 2 new<span class="glossary-module-count--recurring"> + 6 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="search" role="button" tabindex="0">search</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="zensical" role="button" tabindex="0">zensical</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="wikilink" role="button" tabindex="0">wikilink</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="search order" role="button" tabindex="0">search order</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="reference" role="button" tabindex="0">reference</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="search view" role="button" tabindex="0">search view</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="page tags" role="button" tabindex="0">page tags</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="search" aria-haspopup="true">search</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="zensical" aria-haspopup="true">zensical</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="wikilink" aria-haspopup="true">wikilink</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="search order" aria-haspopup="true">search order</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="reference" aria-haspopup="true">reference</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="search view" aria-haspopup="true">search view</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="page tags" aria-haspopup="true">page tags</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong></span></div>
 
 ## Read aloud feature
 
 > 1 new<span class="glossary-module-count--recurring"> + 2 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="read aloud" role="button" tabindex="0">read aloud</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="zensical.toml" role="button" tabindex="0">zensical.toml</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="skipping sections" role="button" tabindex="0">skipping sections</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="read aloud" aria-haspopup="true">read aloud</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="zensical.toml" aria-haspopup="true">zensical.toml</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="skipping sections" aria-haspopup="true">skipping sections</button></strong></span></div>
 
 ## Video controls feature
 
 > 5 new<span class="glossary-module-count--recurring"> + 4 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="video controls" role="button" tabindex="0">video controls</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="pane" role="button" tabindex="0">pane</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="slide mode" role="button" tabindex="0">slide mode</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="local videos" role="button" tabindex="0">local videos</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="gif files" role="button" tabindex="0">gif files</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="mp4 files" role="button" tabindex="0">mp4 files</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="assets folder" role="button" tabindex="0">assets folder</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="closed captions" role="button" tabindex="0">closed captions</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="externally hosted videos" role="button" tabindex="0">externally hosted videos</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="video controls" aria-haspopup="true">video controls</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="pane" aria-haspopup="true">pane</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="slide mode" aria-haspopup="true">slide mode</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="local videos" aria-haspopup="true">local videos</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="gif files" aria-haspopup="true">gif files</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="mp4 files" aria-haspopup="true">mp4 files</button></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><button type="button" class="wikilink" data-keyword="assets folder" aria-haspopup="true">assets folder</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="closed captions" aria-haspopup="true">closed captions</button></strong></span><span class="glossary-tag"><strong><button type="button" class="wikilink" data-keyword="externally hosted videos" aria-haspopup="true">externally hosted videos</button></strong></span></div>
 
 </div>
