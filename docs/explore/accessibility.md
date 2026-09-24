@@ -99,5 +99,5 @@ tags:
 
 # Date and review
 - **Statement published:** 17 September 2026
-- **Last reviewed:** 17 September 2026
+- **Last reviewed:** 24 September 2026
 - **Next review:** After a significant accessibility-related change or a reported issue.

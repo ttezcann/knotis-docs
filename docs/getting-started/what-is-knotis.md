@@ -5,7 +5,7 @@ tags:
   - Getting started
 ---
 # [[Knotis]]
-- Knotis is a teaching-focused extension to the [[Zensical]] static-site generator that adds connected retrieval to Markdown-based instructional websites
+- Knotis is a teaching-focused extension to [Zensical](https://zensical.org/), distributed as a Python package with a command-line interface.
     - It provides tools for organizing instructional materials.
 - Instructional notes are often spread across many pages.
     - A concept such as **survey** may be introduced on one page, explained on another, and used throughout the rest of the course.
