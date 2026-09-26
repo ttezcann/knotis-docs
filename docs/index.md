@@ -7,9 +7,9 @@ knotis_content:
 
 ![The Knotis logo.](assets/attachments/0-logo/knotis-lockup.png#only-light){align=left width="300" }
 ![The Knotis logo.](assets/attachments/0-logo/knotis-lockup-dark.png#only-dark){align=left width="300" }
-Knotis is a teaching-focused [Zensical](https://zensical.org){: target="_blank" rel="noopener" } wrapper. 
+Knotis is a teaching-focused extension to [Zensical](https://zensical.org){: target="_blank" rel="noopener" }. 
 
-It turns Markdown notes into a website where ideas are connected.
+It turns Markdown pages into a website where ideas are connected.
 
 It is built for **instructional materials**.
 
@@ -26,8 +26,8 @@ It is built for **instructional materials**.
         ```
             - :lucide-download: [Installation details](../getting-started/install-knotis.md)
     === ":fontawesome-brands-windows: Windows"
-        - ```powershell
-        python3 -m venv .venv
+        - ```console
+        python -m venv .venv
         .venv\Scripts\activate
         pip install knotis
         ```

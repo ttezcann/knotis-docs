@@ -33,13 +33,13 @@ tags:
         - It can be filtered by the [[page tags]].
 ## Browsing [[site graph]]
 - ![Four-panel sequence showing how to browse the site graph: select a concept, open its pane with concept graph and path, hold Shift to highlight its connections, then click a connection to open where two concepts are mentioned together.](../assets/attachments/features/graphs-feature/site-graph-pane.png)
-    1. The default view. The user clicks on "standardized coefficient".
+    1. The default view. The user clicks on "adjusted  r-squared".
     2. The pane opens with:
-        1. "Standardized coefficient" [[concept graph]].
+        1. "Adjusted R-squared" [[concept graph]].
         2. Its [[path]], showing the two pages mentions this concept.
         3. The context.
     3. This time, the user hovers "standardized coefficient" and holds ++shift++ to highlight its connections.
-        1. This is the [[concept graph]] of "standardized coefficient" within the site graph.
+        1. This is the [[concept graph]] of "Adjusted R-squared" within the site graph.
             1. When a site graph freeze is active, sibling concept links appear. Sibling links are normally hidden from the base site graph.
         2. Just like in any graph, the links are clickable. The user clicks the link between "confounding variable" and "linear regression."
     4. The pane opens the context where "confounding variable" and "linear regression" are mentioned together.
