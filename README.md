@@ -5,6 +5,6 @@
   </picture>
 </p>
 
-[Knotis](https://github.com/ttezcann/knotis) is a teaching-focused wrapper for the [Zensical](https://zensical.org/) static-site generator.
+[Knotis](https://github.com/ttezcann/knotis) is a teaching-focused extension to the [Zensical](https://zensical.org/) static-site generator.
 
 See [Knotis Documentation](https://knotis-docs.ttezcan.com/).
